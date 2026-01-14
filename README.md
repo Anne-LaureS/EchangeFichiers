@@ -1,4 +1,4 @@
-# 📌 Ce projet vise à développer un serveur TCP capable d’échanger des fichiers avec des clients.  
+# 📌 Développer un serveur TCP capable d’échanger des fichiers avec des clients.  
 
 🎯 L’objectif est de comprendre la manipulation des sockets, des répertoires et la lecture/écriture de fichiers.  
 Il inclut la gestion des interactions utilisateur côté client.  
